@@ -2,7 +2,6 @@
 
 This project is a user management system built using React that allows fetching, editing, and deleting users. Since the ReqRes API does not persist updates, a local storage mechanism is used to retain user modifications.
 
-🚀 **Live Demo:** [Click here to view the website](https://your-github-username.github.io/reqres-app/)  
 
 ## Features
 - Fetch user list from API
